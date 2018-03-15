@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">StartIntent</string>
+    <string name="firstMethod">1st method</string>
+    <string name="secondMethod">2nd method</string>
+    <string name="are_you_sure">Are you sure do you want to get back home?</string>
+    <string name="edit">Edit</string>
+    <string name="nothing">Nothing</string>
+    <string name="operation_canceled">Operation canceled</string>
+    <string name="surname">Surname</string>
+    <string name="name">Name</string>
+    <string name="title_activity_edit">Edit details</string>
+    <string name="fill_this_field">You have to fill this field</string>
+    <string name="done">Done</string>
+
+    <string name="extra_surname" translatable="false">ro.razvan.SURNAME_KEY</string>
+    <string name="extra_name" translatable="false">ro.razvan.NAME_KEY</string>
+</resources>
